@@ -1,0 +1,12 @@
+0
+luka
+akul
+topic_add post_add post_del
+1
+netko
+okten
+topic_add post_add
+2
+netko0
+0okten
+topic_add post_add

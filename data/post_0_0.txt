@@ -1,0 +1,3 @@
+readme
+0
+Miniminalistički forum (s UI-em pretezito na Engleskom). S lijeve su strane teme i korisnici, u sredini prikaz trenutne teme, s desne strane razne informacije. Registracija/logiranje se vrši promjenom korisnika (<a href="javascript:tog_usr_change()">klik</a>). <br /> <br /> guest može samo čitati, obični korisnik može pisati i uređivati svoje postove, i admin sve što želi. <br /><br />Pass za "netko" (primjer običnog računa): "okten". Pass za "luka" (primjer admin računa): "akul". 
